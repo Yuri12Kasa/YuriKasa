@@ -1,4 +1,10 @@
 ### Hi there 👋
 
+*About me*
 
-**Yuri12Kasa/Yuri12Kasa** I'm Yuri Kasa
+I'm Yuri Kasa and I'm a student of TheSign Academy.
+I'm in the Game Programming course.
+
+*Skills*
+
+- C++ average skills
