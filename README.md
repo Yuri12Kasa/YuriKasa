@@ -7,4 +7,6 @@ I'm in the Game Programming course.
 
 ### *Skills*
 
-- C++ average skills
+- C++ average
+- C# good
+- Unity good
